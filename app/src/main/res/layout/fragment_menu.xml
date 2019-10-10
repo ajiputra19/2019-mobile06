@@ -18,7 +18,7 @@
         app:layout_constraintEnd_toEndOf="parent" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/broca_bmi"
         android:layout_width="283dp"
         android:layout_height="65dp"
         android:layout_marginTop="32dp"
